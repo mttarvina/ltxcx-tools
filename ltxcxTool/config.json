@@ -1,0 +1,13 @@
+{
+    "t0": {
+        "desc": "LTX-CX Accuracy Tool",
+        "resource_card": ["---", "VI16", "VI16B", "OVI"],
+        "mode": ["---", "Force V", "Force I", "Measure V", "Measure I"],
+        "measure_param": ["---", "Voltage", "Current"],
+        "force_param": ["---", "Voltage", "Current"]
+    },
+    "t3": {
+        "db_loc": "./limits_db",
+        "dump_loc": "./dump"
+    }
+}
